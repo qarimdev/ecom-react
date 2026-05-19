@@ -17,6 +17,7 @@ function App() {
         <div className="min-h-screen bg-slate-950">
           <Navbar />
           <main>
+            // use cases
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/products" element={<ProductList />} />

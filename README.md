@@ -14,3 +14,7 @@ npm start
 - React 18, TypeScript, React Router
 - Tailwind CSS
 - Mock product data (no backend)
+
+## Repo
+
+https://github.com/qarimdev/ecom-react

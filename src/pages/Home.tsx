@@ -81,8 +81,8 @@ const Home: React.FC = () => {
                 </span>
               </h1>
               <p className="text-lg text-slate-400 mb-8 max-w-lg leading-relaxed">
-                TechCore delivers enterprise-grade hardware, accessories, and office gear —
-                built for developers, startups, and growing IT teams.
+                TechCore delivers enterprise-grade hardwares, accessories, and office gear —
+                built for developers, startups and growing IT teams.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link
